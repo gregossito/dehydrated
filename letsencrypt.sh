@@ -61,7 +61,7 @@ load_config() {
 
   # Default values
   CA="https://acme-v01.api.letsencrypt.org/directory"
-  LICENSE="https://letsencrypt.org/documents/LE-SA-v1.0.1-July-27-2015.pdf"
+  LICENSE="https://letsencrypt.org/documents/LE-SA-v1.2-November-15-2017.pdf"
   CHALLENGETYPE="http-01"
   CONFIG_D=
   HOOK=
